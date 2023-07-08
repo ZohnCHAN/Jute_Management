@@ -10,4 +10,6 @@ class WarehouseApplicationTests {
 	void contextLoads() {
 	}
 
+	//just a test
+
 }
